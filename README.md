@@ -5,6 +5,7 @@ An app that lets you vote what you're gonna eat for lunch with your team
 ## Authors
 
 - [Rhys Devalckeneer](https://www.github.com/rhysdevalckeneer2)
+- [Stijn Van Wijmeersch](https://github.com/Stinobe)
 
 ## Tech Stack
 

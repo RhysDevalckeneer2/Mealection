@@ -1,7 +1,3 @@
-<<<<<<< Updated upstream
-<script setup lang="ts">
-import HelloWorld from '@/components/HelloWorld.vue'
-=======
 <script lang="ts">
   // import layouts
   import AppHeader from './layouts/AppHeader.vue'
@@ -14,7 +10,6 @@ import HelloWorld from '@/components/HelloWorld.vue'
       AppFooter: AppFooter
     }
   }
->>>>>>> Stashed changes
 </script>
 
 <template>
